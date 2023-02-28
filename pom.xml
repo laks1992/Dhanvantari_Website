@@ -3,11 +3,11 @@
 
   <modelVersion>4.0.0</modelVersion> 
 
-  <groupId>com.example.maven-project</groupId>
-  <artifactId>maven-project</artifactId>
+  <groupId>helicon</groupId>
+  <artifactId>kanth</artifactId>
   <packaging>pom</packaging>
-  <version>1.0-SNAPSHOT</version>
-  <name>spandana Project</name>
+  <version>1992-SNAPSHOT</version>
+  <name>kakani  Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
