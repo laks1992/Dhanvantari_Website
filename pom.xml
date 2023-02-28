@@ -6,7 +6,7 @@
   <groupId>helicon</groupId>
   <artifactId>kanth</artifactId>
   <packaging>pom</packaging>
-  <version>1993-RELEASE</version>
+  <version>1994-RELEASE</version>
   <name>kakani  Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
